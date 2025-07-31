@@ -1,4 +1,4 @@
-# Fitness Leaderboard Generator
+# Leaderboard Auto-Generator from Google Sheet
 <img width="1579" height="815" alt="leaderboard-generator" src="https://github.com/user-attachments/assets/252667b0-bc1e-4623-8939-885205b8574a" />
 
 A web-based leaderboard that Autogenerates fitness scores from Google Sheets.
