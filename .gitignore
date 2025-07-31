@@ -1,0 +1,9 @@
+# Configuration files containing sensitive data
+config.js
+
+# Common files to ignore
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env 
